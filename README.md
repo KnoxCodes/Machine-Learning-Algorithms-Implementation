@@ -11,3 +11,4 @@ This repository contains implementations of fundamental Machine Learning algorit
 ### 5. Logistic Regression
 ### 6. Decision Tree
 ### 7. K-Means Clustering
+### 8. Backpropagation
